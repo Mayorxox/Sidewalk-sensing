@@ -1,12 +1,9 @@
 {
-  "clip_01": {
-    "trajectory": [[0, 0], [0.1, 0], [0.6, 0], [0.7, 0]],
-    "speed": [1.2, 1.0, 0.1, 0.0],
-    "gaze": [30, 25, 10, 5]
-  },
-  "clip_02": {
-    "trajectory": [[0, 0], [0.1, 0], [0.2, 0.2], [0.4, 0.3]],
-    "speed": [1.1, 0.8, 0.7, 0.6],
-    "gaze": [50, 40, 20, 10]
-  }
+  "clip_id": "clip_01",
+  "event_start": 3.1,
+  "event_end": 5.8,
+  "gaze_shift": true,
+  "hesitation": false,
+  "trajectory_change": "major",
+  "adjustment_type": "sidestep"
 }
